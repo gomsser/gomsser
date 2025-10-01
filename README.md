@@ -6,7 +6,7 @@
 - **Workers** 部署：复制 [_worker.js](https://github.com/cmliu/CF-Workers-DD2D/blob/main/_worker.js) 代码，`保存并部署`即可
 
 ## 如何使用？
-例如 您的Workers项目域名为：`dd2d.fxxk.workers.dev`；
+例如 您的Workers项目域名为：`dd2d.fxxk.workers.dev`；  
 
 1. 如你想将`cdn.xn--b6gac.eu.org`和`my-telegram-is-herocore.onecf.eu.org`内的IP解析到你的`ddns.google.com`下，你可以设置如下变量
     - 变量名`DOMAIN`，值为`cdn.xn--b6gac.eu.org,my-telegram-is-herocore.onecf.eu.org`，支持多元素之间使用`,`或**换行**作间隔；
