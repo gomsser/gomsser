@@ -19,7 +19,7 @@ let 执行日志 = '';
 
 let BotToken ='';
 let ChatID =''; 
-let tgmsg = '';
+let tgmsg = ''; 
 
 let 解析成功次数 = 0;
 let 解析失败次数 = 0;
